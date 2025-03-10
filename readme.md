@@ -1,4 +1,4 @@
-# Eduacación financiera
+# Educación financiera
 
 - Módulo 1: Finanzas y gestión de presupestos
 - Módulo 2: Ahorro e inversión
