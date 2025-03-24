@@ -6,3 +6,4 @@
 - 🎯 Módulo 4: Planificación financiera
 - 👉 Módulo 5: IA en finanzas personales
 
+🎯 Algunas preguntas y sus respuestas (extra)
